@@ -49,3 +49,6 @@ And finally, I am proving ownership of the github account by posting this as a g
 
 https://keybase.io/genkidama1
 
+### From the command line:
+
+Consider the 
