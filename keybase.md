@@ -42,16 +42,10 @@ To claim this, I am signing this object:
 }
 with the key [ASB64L3xi0LjehqaWyxGJQDmVw_L4IrekcnIXuwSEEDAYAo](https://keybase.io/genkidama1), yielding the signature:
 hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgeuC98YtC43oamlssRiUA5lcPy+CK3pHJyF7sEhBAwGAKp3BheWxvYWTESpcCCcQg0rFLhfYv4hbvHjxOlwyCYz3FgSwDT9CqB9KcZ6Zh+mXEIISRQafYII2ONqOkSECC60YweN6TqbBrGw5dZe0Ghmy4AgHCo3NpZ8RATTSBnt0KWg/AtFto82HukXhRLsYNiLs/lDBv04RE3PMcMfq6U6Q8JPWN+TnNHb22fzqm83BzNOh5y4UAFxc8A6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMoaWNrGDygJGraZEiiVlOsZyt/UKoIPLkcCIYhrDZbLo3RhZ80CAqd2ZXJzaW9uAQ==
+
 And finally, I am proving ownership of the github account by posting this as a gist.
 
 ### My publicly-auditable identity:
 
 https://keybase.io/genkidama1
 
-### From the command line:
-
-Consider the [keybase command line program](https://keybase.io/download).
-
-bash
-# look me up
-keybase id genkidama1
